@@ -1,5 +1,7 @@
 #include <sstream>
+
 #include <gtest/gtest.h>
+
 #include <hello/hello.h>
 
 TEST(hello, greetings) {
